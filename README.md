@@ -1,3 +1,3 @@
 # myfirst website
 
-welcome! [website](http://q4u.co.uk)
+welcome! [website](http:/codeinstitute.net)
